@@ -1,5 +1,2 @@
 # react
-react project 
-Editing ReadME
-thanks
-testing
+react project Editing ReadME thanks Welcome
